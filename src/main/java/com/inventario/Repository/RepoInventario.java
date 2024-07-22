@@ -6,6 +6,6 @@ import org.springframework.stereotype.Repository;
 
 
 @Repository
-public interface RepoInventario extends JpaRepository<ModeloInventario, Integer> {
+public interface RepoInventario extends JpaRepository<ModeloInventario, Long> {
 
 }
