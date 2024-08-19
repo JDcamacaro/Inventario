@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "java.compile.nullAnalysis.mode": "automatic",
     "java.debug.settings.onBuildFailureProceed": true,
     "sqltools.connections": [
@@ -17,4 +18,7 @@
             "name": "mariaDb"
         }
     ]
+=======
+    "java.compile.nullAnalysis.mode": "automatic"
+>>>>>>> d96c9b492003b9cdbe6fe31330189b11e92deeb0
 }
